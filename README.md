@@ -1,6 +1,6 @@
 # WebP Conversion Lab
 
-Sandbox for testing image → WebP conversion with [sharp](https://sharp.pixelplumbing.com/) before adding it to the Strive Space upload flow.
+Sandbox for testing image → WebP conversion with [sharp](https://sharp.pixelplumbing.com/).
 
 ## Why server-side
 
